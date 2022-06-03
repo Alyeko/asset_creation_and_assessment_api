@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------------------
-# cege0043-data-api-documentation
+# api-documentation
 
 This is a technical report for the asset creation and condition assessment Application Programming Interface. This api(server side) together with the [client side](https://cege0043-2022-43.cs.ucl.ac.uk/bootStrap.html), enables the asset creation and condition assessment to work as required. 
 
